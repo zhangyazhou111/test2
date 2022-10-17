@@ -7,6 +7,5 @@ public class Demo {
 
     private  String name;
     private  String  age;
-    private   String tall;
-    private  int     data;
+    private   String tall55;
 }
